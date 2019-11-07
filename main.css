@@ -27,7 +27,7 @@ h1 {
 /* This changes color and removes default underline in links  */
 
 a {
-color: #7F006E;
+color: black;
 text-decoration: none;
 }
 
